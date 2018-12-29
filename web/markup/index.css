@@ -1,0 +1,22 @@
+.links a { 
+	color: white;
+    text-decoration: underline; 
+ }
+
+.links a:hover { 
+	color: white;
+    text-decoration: none;
+ }
+
+h2 {
+	font-family: sans-serif;
+}
+
+.alist a {
+	color: black;
+}
+
+.alist a:hover {
+	color: #827D94;
+	text-decoration: none;
+}
